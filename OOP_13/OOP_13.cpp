@@ -103,7 +103,7 @@ public:
     }
 
     void Price() const {
-        float price = 0; //проезд на трамвае 0 грню
+        float price = 0; //проезд на велосипеде 0 грню
         cout << "The ride will cost: " << price << " hrn.\n\n";
     }
 };
